@@ -1,0 +1,16 @@
+RNN Hyperparameters
+https://www.youtube.com/watch?time_continue=1&v=yQvnv7l_aUo
+
+
+Paper:
+Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling by Junyoung Chung, Caglar Gulcehre, KyungHyun Cho, Yoshua Bengio
+https://arxiv.org/abs/1412.3555
+
+An Empirical Exploration of Recurrent Network Architectures by Rafal Jozefowicz, 
+http://proceedings.mlr.press/v37/jozefowicz15.pdf
+
+Visualizing and Understanding Recurrent Networks by Andrej Karpathy, Justin Johnson, Li Fei-Fei
+https://arxiv.org/abs/1506.02078
+
+Understanding LSTM Networks by Chris Olah
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
