@@ -1,0 +1,51 @@
+Intro To RNNs
+https://www.youtube.com/watch?v=64HSG6HAfEI
+
+LSTMs
+https://www.youtube.com/watch?time_continue=2&v=RYbSHogZetc
+
+Character-Wise RNN
+https://www.youtube.com/watch?time_continue=2&v=dXl3eWCGLdU
+
+Sequence-Batching
+https://www.youtube.com/watch?time_continue=6&v=Z4OiyU0Cldg
+
+Implementing a Character-wise RNN
+https://www.youtube.com/watch?time_continue=16&v=KPCMn_jg2oY
+
+Batching Data Solution
+https://www.youtube.com/watch?time_continue=6&v=o3nBxHJLQcc
+
+LSTM Cell
+https://www.youtube.com/watch?time_continue=2&v=ajC-5uWB8S4
+
+LSTM Cell Solution
+https://www.youtube.com/watch?v=X4uA0dq_4jA
+
+RNN Output
+https://www.youtube.com/watch?time_continue=5&v=RkanDkcrTxs
+
+Network Loss
+https://www.youtube.com/watch?time_continue=10&v=itu-uNK4brc
+
+Output And Loss Solutions
+https://www.youtube.com/watch?time_continue=10&v=CT8hcU7FmGc
+
+Build The Network
+https://www.youtube.com/watch?time_continue=3&v=RVNjDlWTBQU
+
+Build The Network And Results
+https://www.youtube.com/watch?time_continue=6&v=hu8iMMqajmQ
+
+RNN Resources
+
+Here are a few resources to learn more about recurrent neural networks.
+
+-	A great blog post by Christopher Olah on how LSTMs work.
+	http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+-	Building an RNN from the ground up, this is a little more advanced, but has an implementation in TensorFlow.
+	https://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html
+
+
+
